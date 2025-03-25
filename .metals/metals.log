@@ -396,3 +396,47 @@ Mar 26, 2025 3:31:22 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notif
 WARNING: Unsupported notification method: metals/windowStateDidChange
 Mar 26, 2025 3:31:23 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.03.26 03:31:56 INFO  file:///C:/Users/shanmuka/Desktop/work%20space/Scala/topics/concurrency/akka_example.scala:1:8: stale bloop error: Not found: akka
+import akka.actor.{Actor, ActorSystem, Props}
+       ^^^^
+2025.03.26 03:31:56 INFO  file:///C:/Users/shanmuka/Desktop/work%20space/Scala/topics/concurrency/akka_example.scala:5:16: stale bloop error: Not found: type Receive
+  def receive: Receive = {
+               ^^^^^^^
+2025.03.26 03:31:56 WARN  Could not find semantic tokens for: file:///C:/Users/shanmuka/Desktop/work%20space/Scala/topics/concurrency/akka_example.scala
+2025.03.26 03:31:57 INFO  time: compiled Scala_d5c0a6989e in 6ms
+2025.03.26 03:31:57 WARN  Could not find semantic tokens for: file:///C:/Users/shanmuka/Desktop/work%20space/Scala/topics/concurrency/akka_example.scala
+2025.03.26 03:32:39 WARN  Could not find semantic tokens for: file:///C:/Users/shanmuka/Desktop/work%20space/Scala/topics/concurrency/akka_example.scala
+Mar 26, 2025 3:32:51 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 26, 2025 3:33:21 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 26, 2025 3:33:23 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 26, 2025 3:33:28 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 26, 2025 3:33:32 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 26, 2025 3:33:32 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 26, 2025 3:33:56 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 26, 2025 3:33:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 26, 2025 3:34:01 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 26, 2025 3:34:09 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 26, 2025 3:34:10 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 26, 2025 3:34:23 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 26, 2025 3:34:35 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 26, 2025 3:35:29 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 26, 2025 3:35:40 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 26, 2025 3:35:43 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Mar 26, 2025 3:35:43 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
